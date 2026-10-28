@@ -1,174 +1,174 @@
 [[CMake]]
 arch = "aarch64"
-git-tree-sha1 = "2608fedf9119cecdf37ae193fc90d8da6ebe7534"
+git-tree-sha1 = "08ce4554cb72ee1c8f3e2d459a8d5181475c7ee6"
 os = "macos"
 
     [[CMake.download]]
-    sha256 = "8a812f6b5c96058790f444b1f5d65a0683b83aff9845d0302c17161965c23b2e"
-    url = "https://github.com/JuliaBinaryWrappers/CMake_jll.jl/releases/download/CMake-v4.4.1+0/CMake.v4.4.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "ff4ae71396ad670e2c81fbdb606d41aad8eaa3bd3107b571b8fb9d7491b3f90b"
+    url = "https://github.com/JuliaBinaryWrappers/CMake_jll.jl/releases/download/CMake-v4.4.5+0/CMake.v4.4.5.aarch64-apple-darwin.tar.gz"
 [[CMake]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "48b9489c520b5b2daa93cdfb64e024d4f744899c"
+git-tree-sha1 = "1d209a3ffdb59a899f6dc845951c542d29729b0a"
 libc = "glibc"
 os = "linux"
 
     [[CMake.download]]
-    sha256 = "9fdbdf39c8de8ac5440ddb5788a0d5cbb86d2313638f725183ce1f324e99e889"
-    url = "https://github.com/JuliaBinaryWrappers/CMake_jll.jl/releases/download/CMake-v4.4.1+0/CMake.v4.4.1.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "53e37b5b5fc518a89f2a3d6c82cf6d679f8b6f8238c4f4b2c2ac7036b9aa2bce"
+    url = "https://github.com/JuliaBinaryWrappers/CMake_jll.jl/releases/download/CMake-v4.4.5+0/CMake.v4.4.5.aarch64-linux-gnu-cxx11.tar.gz"
 [[CMake]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e2cc9802c6d1c925d235988a847b20ad91c9dd64"
+git-tree-sha1 = "0feaaad3bda1724dc1669202ef8ade98fdb7166c"
 libc = "musl"
 os = "linux"
 
     [[CMake.download]]
-    sha256 = "625b7629aa37f7c8d18ef03c26bc0b868dfda60b746c13db05b26d2ab0d7b6cd"
-    url = "https://github.com/JuliaBinaryWrappers/CMake_jll.jl/releases/download/CMake-v4.4.1+0/CMake.v4.4.1.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "ae4c4d189566b5d24bac035f52b19fed46d5f0ff9f0ffc26dcbab2419fe4bb0c"
+    url = "https://github.com/JuliaBinaryWrappers/CMake_jll.jl/releases/download/CMake-v4.4.5+0/CMake.v4.4.5.aarch64-linux-musl-cxx11.tar.gz"
 [[CMake]]
 arch = "aarch64"
-git-tree-sha1 = "3d4c1c39e9533c5d07b6054a6c296a589ce82d0f"
+git-tree-sha1 = "a3cb5468ea613f31fb6b9c1cabed2f1b1e08e160"
 os = "freebsd"
 
     [[CMake.download]]
-    sha256 = "50e58484df93ea744e983b191bdd39d041b09de6cb1c00ec40542afaa594a9cf"
-    url = "https://github.com/JuliaBinaryWrappers/CMake_jll.jl/releases/download/CMake-v4.4.1+0/CMake.v4.4.1.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "48c38a6cd79821d4b01cb742ec2072154103c85fe6e8b96c10292313cf739e73"
+    url = "https://github.com/JuliaBinaryWrappers/CMake_jll.jl/releases/download/CMake-v4.4.5+0/CMake.v4.4.5.aarch64-unknown-freebsd.tar.gz"
 [[CMake]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1b95fc66ec06397c2194aefedb49d3c4b67c7aed"
+git-tree-sha1 = "27c757d5dd5ab398c6ad6b52eacf1f8a05725b30"
 libc = "glibc"
 os = "linux"
 
     [[CMake.download]]
-    sha256 = "8dc22d930cc150dfdf0c46e16540ba38cd8cb99a17eba787e85faa8772d3a73e"
-    url = "https://github.com/JuliaBinaryWrappers/CMake_jll.jl/releases/download/CMake-v4.4.1+0/CMake.v4.4.1.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "2b348484b75b9b5caf244a35241d507e78d30ef6e08fbfbc39ada23484abe2c6"
+    url = "https://github.com/JuliaBinaryWrappers/CMake_jll.jl/releases/download/CMake-v4.4.5+0/CMake.v4.4.5.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[CMake]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9d31dd8f26259d15a6b91a3c242a2552220fcff6"
+git-tree-sha1 = "4490f086ccad9a9490f71bb01ba4a1166e45670b"
 libc = "musl"
 os = "linux"
 
     [[CMake.download]]
-    sha256 = "a44b02419131730d5e7a7987c9007d692d1aabe9c85052543d192161fb2a4e4d"
-    url = "https://github.com/JuliaBinaryWrappers/CMake_jll.jl/releases/download/CMake-v4.4.1+0/CMake.v4.4.1.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "968766ad1abe83099125373be684892b178881708da6c16c2d856e10c5412485"
+    url = "https://github.com/JuliaBinaryWrappers/CMake_jll.jl/releases/download/CMake-v4.4.5+0/CMake.v4.4.5.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[CMake]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c29fedac7748e3d5e806dd335badb36859e56f8e"
+git-tree-sha1 = "bfecc32776020e2492a667db4c4be1d35a0e4241"
 libc = "glibc"
 os = "linux"
 
     [[CMake.download]]
-    sha256 = "6f39383d3aac15fe591ec11f4931786bef603d5c467f93c485a6cc8db7012fa2"
-    url = "https://github.com/JuliaBinaryWrappers/CMake_jll.jl/releases/download/CMake-v4.4.1+0/CMake.v4.4.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "a13d8e1bc54831b1224c8a87b6f6e33354621aca7b3c738525b5d44a45a7ffdb"
+    url = "https://github.com/JuliaBinaryWrappers/CMake_jll.jl/releases/download/CMake-v4.4.5+0/CMake.v4.4.5.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[CMake]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e8ecd27b9315268fb583d722d1b73608141f0943"
+git-tree-sha1 = "e70fc6ece00eefb5e512b25bd0575f3fd50b2822"
 libc = "musl"
 os = "linux"
 
     [[CMake.download]]
-    sha256 = "b704ae91743ab9d9829ba61ce10292e95dd1444be4a85a5dfab6d3ffcc62d0df"
-    url = "https://github.com/JuliaBinaryWrappers/CMake_jll.jl/releases/download/CMake-v4.4.1+0/CMake.v4.4.1.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "0cd03fd88702ca3673d11c9aec7575995a0ae10ba4cb4ddd19fb590bd65c515b"
+    url = "https://github.com/JuliaBinaryWrappers/CMake_jll.jl/releases/download/CMake-v4.4.5+0/CMake.v4.4.5.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[CMake]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d9f89db1c45d3c8c33e3e2e1398da457ae2034d0"
+git-tree-sha1 = "2dcc0544fb3c1cf0e7279dc92d5b393a38885e67"
 libc = "glibc"
 os = "linux"
 
     [[CMake.download]]
-    sha256 = "1f8de22f94ecb8b2836d569b9918e93f890340725de11822c28c4ec2ea76ee86"
-    url = "https://github.com/JuliaBinaryWrappers/CMake_jll.jl/releases/download/CMake-v4.4.1+0/CMake.v4.4.1.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "ffe6c64ae807e863aa3c16bb7f1e626ea7bacbc41fdf7828190489bfd9a3c4a2"
+    url = "https://github.com/JuliaBinaryWrappers/CMake_jll.jl/releases/download/CMake-v4.4.5+0/CMake.v4.4.5.i686-linux-gnu-cxx11.tar.gz"
 [[CMake]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b9a55d93df8736ee66cf3b9425832b4b914343e1"
+git-tree-sha1 = "f2c737a2ae8e3b118c026f4f87585c178d3b1030"
 libc = "musl"
 os = "linux"
 
     [[CMake.download]]
-    sha256 = "1ca90b2229e0a6febcaf5ae9b8aaa8bedd5b6de09bb464da3d3f8a74921c9209"
-    url = "https://github.com/JuliaBinaryWrappers/CMake_jll.jl/releases/download/CMake-v4.4.1+0/CMake.v4.4.1.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "8cf4c426282443f23e3c5f9cccde3b2c40cba5fba8d473f7dc03586411afaf9a"
+    url = "https://github.com/JuliaBinaryWrappers/CMake_jll.jl/releases/download/CMake-v4.4.5+0/CMake.v4.4.5.i686-linux-musl-cxx11.tar.gz"
 [[CMake]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6dfa1896a6c2a77209b281b6987106c92ce7e62b"
+git-tree-sha1 = "3f63318784b1b514ed484a1fbbc95c6cf4397ebe"
 os = "windows"
 
     [[CMake.download]]
-    sha256 = "ecaf26a4d2d13aad883d06ffa4e1d0c4f4a45cb6107a2eeb777016a9cbd4d726"
-    url = "https://github.com/JuliaBinaryWrappers/CMake_jll.jl/releases/download/CMake-v4.4.1+0/CMake.v4.4.1.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "c1c168a80e2f3fa34f4f7ca9fc3e94ea0da24814d3eec020499196af2c73ae33"
+    url = "https://github.com/JuliaBinaryWrappers/CMake_jll.jl/releases/download/CMake-v4.4.5+0/CMake.v4.4.5.i686-w64-mingw32-cxx11.tar.gz"
 [[CMake]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2ef51a8e42e914e1ec3990963236f806748d4498"
+git-tree-sha1 = "86e0d3fcfa5a7755e3eeab911532b5c2b2dcc89b"
 libc = "glibc"
 os = "linux"
 
     [[CMake.download]]
-    sha256 = "85b9055b27201105d2f62e5eb541949f1f21f3f3f432986a3ebe50115480d318"
-    url = "https://github.com/JuliaBinaryWrappers/CMake_jll.jl/releases/download/CMake-v4.4.1+0/CMake.v4.4.1.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "f13e75b064eb767df2b7cfeda7d80f7b5041bb5d91ecb9f449a2410798b0b5f1"
+    url = "https://github.com/JuliaBinaryWrappers/CMake_jll.jl/releases/download/CMake-v4.4.5+0/CMake.v4.4.5.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[CMake]]
 arch = "riscv64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "18576c1d6e8e70b1538508d972615cf2b9ee66a6"
+git-tree-sha1 = "7ae6c95f278e04ab57d5be3172ae4a681d2766e7"
 libc = "glibc"
 os = "linux"
 
     [[CMake.download]]
-    sha256 = "892c519c2c8ed9dc23b9eec36e0637b7a2eeb15569961688465bc7c4873112a1"
-    url = "https://github.com/JuliaBinaryWrappers/CMake_jll.jl/releases/download/CMake-v4.4.1+0/CMake.v4.4.1.riscv64-linux-gnu-cxx11.tar.gz"
+    sha256 = "603cdf6b43b29d74c20924223dedecfd0356f5c94f8602e9ba5e93ec80a69a24"
+    url = "https://github.com/JuliaBinaryWrappers/CMake_jll.jl/releases/download/CMake-v4.4.5+0/CMake.v4.4.5.riscv64-linux-gnu-cxx11.tar.gz"
 [[CMake]]
 arch = "x86_64"
-git-tree-sha1 = "c7220c74e763373c6c5e4eb125607e9d5646ee06"
+git-tree-sha1 = "2c17dfe26ea3abcaed8e5bccb08907f03dbe39ba"
 os = "macos"
 
     [[CMake.download]]
-    sha256 = "40904f72314cd0b86309d5561c314a36de04e8aa5adb6d0dd969a1f1e3b70522"
-    url = "https://github.com/JuliaBinaryWrappers/CMake_jll.jl/releases/download/CMake-v4.4.1+0/CMake.v4.4.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "c81379683e1f7d18362ec041c011fcecd16d9131bdd25b007a60b81403837aa2"
+    url = "https://github.com/JuliaBinaryWrappers/CMake_jll.jl/releases/download/CMake-v4.4.5+0/CMake.v4.4.5.x86_64-apple-darwin.tar.gz"
 [[CMake]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d95a341bf1d467c1589a5ef21d1906d73c7c9f3e"
+git-tree-sha1 = "4d4b5cacd3db05f29f7bdb21e0735f853449fe7d"
 libc = "glibc"
 os = "linux"
 
     [[CMake.download]]
-    sha256 = "8aee2ade5bcd25373855df62db2372f579b3f6829d671c95e911b5e6c66174e1"
-    url = "https://github.com/JuliaBinaryWrappers/CMake_jll.jl/releases/download/CMake-v4.4.1+0/CMake.v4.4.1.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "fbf7cca33f3a69fd3b6a89f094cfbe97c897f1945bc6af5813afd91d4d2b199c"
+    url = "https://github.com/JuliaBinaryWrappers/CMake_jll.jl/releases/download/CMake-v4.4.5+0/CMake.v4.4.5.x86_64-linux-gnu-cxx11.tar.gz"
 [[CMake]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b04837421754a70d04070b2a10f1ac57b556030e"
+git-tree-sha1 = "22d7ddba0d8723fed405beb3db400104a214e4b3"
 libc = "musl"
 os = "linux"
 
     [[CMake.download]]
-    sha256 = "907cb38bc30615b6ed82cadca29d57708cb04c91cc26ed5e1dd20e7ed472b86a"
-    url = "https://github.com/JuliaBinaryWrappers/CMake_jll.jl/releases/download/CMake-v4.4.1+0/CMake.v4.4.1.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "ca488e51c7d4890206a0c0c640d9ef24ebff2c43eafc5ed3e5410d730d8c27ec"
+    url = "https://github.com/JuliaBinaryWrappers/CMake_jll.jl/releases/download/CMake-v4.4.5+0/CMake.v4.4.5.x86_64-linux-musl-cxx11.tar.gz"
 [[CMake]]
 arch = "x86_64"
-git-tree-sha1 = "08d9edeb0f753ab0e5f294829ce2888c5be04f12"
+git-tree-sha1 = "9bcf5dc71da6aaf24f3fc6dd530a5647057aa49c"
 os = "freebsd"
 
     [[CMake.download]]
-    sha256 = "cf6de06fa571cd1e1aaa40a3676eeb3a945b4c5773d3525fd021e29f4d7b2a22"
-    url = "https://github.com/JuliaBinaryWrappers/CMake_jll.jl/releases/download/CMake-v4.4.1+0/CMake.v4.4.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "b8646340419a8c2917932433ba36eafa65c0f193349f0328806377db590e2511"
+    url = "https://github.com/JuliaBinaryWrappers/CMake_jll.jl/releases/download/CMake-v4.4.5+0/CMake.v4.4.5.x86_64-unknown-freebsd.tar.gz"
 [[CMake]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f33b739e68ef2d1bbeb5877659cace1ddc0f0b45"
+git-tree-sha1 = "c7305b53ba0a1355203182b418db3629b70aaa4a"
 os = "windows"
 
     [[CMake.download]]
-    sha256 = "6df626c4a7bdf616b26639679f0f63af1dfe7520d9919e367a1dde88200dc87a"
-    url = "https://github.com/JuliaBinaryWrappers/CMake_jll.jl/releases/download/CMake-v4.4.1+0/CMake.v4.4.1.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "c438580dc5e9c996a88758e142e71bdc01e253686937e07937e93a7fa295c800"
+    url = "https://github.com/JuliaBinaryWrappers/CMake_jll.jl/releases/download/CMake-v4.4.5+0/CMake.v4.4.5.x86_64-w64-mingw32-cxx11.tar.gz"
